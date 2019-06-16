@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="badgesystem@169.254.10.1 [2]" uuid="c59c6ec0-9ede-4f6e-afe0-ecd7daa747b1">
+      <database-info product="MariaDB" version="10.1.37-MariaDB-0+deb9u1" jdbc-version="4.2" driver-name="MariaDB Connector/J" driver-version="2.4.1" family="MARIADB" exact-version="10.1.37">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>mct</user-name>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+  </component>
+</project>
